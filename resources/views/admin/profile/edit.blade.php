@@ -1,4 +1,4 @@
-//課題4【応用】add Action
+//課題4【応用】edit Action
 <!DOCTYPE html>
 <html>
     <head>
